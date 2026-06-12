@@ -2,7 +2,9 @@
   <img src="https://a.top4top.io/p_37287xrhs1.jpg" width="250"/>
 </p>
 
-<h1 align="center">Modified WhatsApp Baileys</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Modified+WhatsApp+Baileys" />
+</p>
 
 ---
 
